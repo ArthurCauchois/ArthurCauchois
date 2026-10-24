@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hi, I'm Arthur 👋
 
+Pipeline TD at Trimaran VFX
+
+Pipeline TD specialized in USD pipelines mainly in Solaris, DCC tool development in Python for VFX and Animation film production.
+
+## Work
+- [td_pipeline](https://github.com/ArthurCauchois/td_pipeline) - collection of pipeline tools and scripts
+
+## Contact
+- Mail : acauchois@artfx.fr
+- LinkedIn : https://www.linkedin.com/in/arthur-cauchois-56674b237/
+- Based in Paris, France - open to relocate in Europe
 <!--
 **ArthurCauchois/ArthurCauchois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
