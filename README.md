@@ -2,7 +2,7 @@
 
 Pipeline TD at Trimaran VFX
 
-Pipeline TD specialized in USD pipelines mainly in Solaris, DCC tool development in Python for VFX and Animation film production.
+Pipeline TD specialized in USD pipelines, DCC tool development in Python for VFX and Animation film production.
 
 ## Work
 - [td_pipeline](https://github.com/ArthurCauchois/td_pipeline) - collection of pipeline tools and scripts
